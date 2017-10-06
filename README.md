@@ -13,6 +13,9 @@ The extension automatically appears when you open a new Chrome tab. It motivates
 5. *Donate* - financially supporting organizations that expand female opportunity
 6. *Apply* - staying aware of the professional landscape, always striving for more
 
+## My Contribution
+I led backend, building and seeding our database. I was also responsible for integrating with Twitter, managing Heroku, and using bootstrap for UI polishing in the final stages of the project.
+
 ## Tech Stack
 Make the Space is built on a decoupled architecture featuring:
 * Rails API backend
