@@ -3,7 +3,9 @@
 ## What does it take to elevate women every single day?
 Make the Space is an answer to that question. It’s a Google Chrome extension that transforms every new tab into a challenge to elevate the women around you. You can find it in the Chrome store [here](https://chrome.google.com/webstore/detail/make-the-space/nljdbdamphnnppoohmjdplchkfnepamb).
 
-![](https://github.com/womanhack-2017/make-the-space-for-chrome/blob/development/mts_to_gif_1.gif)
+<p align="center">
+  <img src="https://github.com/womanhack-2017/make-the-space-for-chrome/blob/development/mts_to_gif_1.gif" />
+</p>
 
 The extension automatically appears when you open a new Chrome tab. It motivates 6 key actions for elevating other women:
 1. *Think* - reading topical articles, staying informed of the issues
