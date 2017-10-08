@@ -16,7 +16,7 @@ The extension automatically appears when you open a new Chrome tab. It motivates
 6. *Apply* - staying aware of the professional landscape, always striving for more
 
 ## My Contribution
-I led backend, building and seeding our database. I was also responsible for integrating with Twitter, managing Heroku, and using bootstrap for UI polishing in the final stages of the project.
+I led the project's backend efforts, building our database and populating it with our custom content. I was also responsible for integrating with Twitter and owning the "Tweet" function, managing Heroku, using bootstrap for UI polishing, and submitting to the Chrome store using the Google Developer dashboard.
 
 ## Tech Stack
 Make the Space is built on a decoupled architecture featuring:
